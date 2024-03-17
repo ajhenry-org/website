@@ -34,7 +34,7 @@ export default async function OgImage() {
         }}
       >
         <img
-          src="http://localhost:3000/images/avatar.png"
+          src="http://ajhenry.com/images/avatar.png"
           alt={alt}
           style={{
             width: "240px",
