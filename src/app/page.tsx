@@ -84,19 +84,19 @@ export default function Home() {
           <h3 className="text-2xl mt-8">Projects I&apos;ve made</h3>
           <ul className="space-y-1 mt-2">
             <li className="">
-              <a href="https://github.com/interviews-so" className="underline">
+              <a href="https://interviews.so" className="underline">
                 interviews.so
               </a>{" "}
               — Better technical interviews
             </li>
             <li className="">
-              <a href="https://github.com/interviews-so" className="underline">
+              <a href="https://prettyavatars.com" className="underline">
                 prettyavatars.com
               </a>{" "}
               — Beautiful avatars as a service
             </li>
             <li className="">
-              <a href="https://github.com/interviews-so" className="underline">
+              <a href="https://recommit.io" className="underline">
                 recommit.io
               </a>{" "}
               — Managed open source for Enterprises
